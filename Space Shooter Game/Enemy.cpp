@@ -186,7 +186,7 @@ void Enemy::initializeEnemy(ResourceHolder& resourceHolder, sf::Vector2f positio
 	{
 		mEntity.setTexture(resourceHolder.getTextures(Textures::ID::BossA));
 		mEntity.setScale(1.5, 1.5);
-		health = (20 * gameLevel.getLevel) + gameLevel.healthIncreaseByLevel();
+		health = (20 * gameLevel.getLevel()) + gameLevel.healthIncreaseByLevel();
 		missileProbability = 300 + gameLevel.bulletIncreaseByLevel();;
 		if (missileProbability <= 0)
 		{
