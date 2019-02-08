@@ -7,7 +7,7 @@ Space Shooter is a Space Invaders inspired game that allows the player to traver
 ## Download Instructions
 Space Shooter can only be ran on Windows as there is no compatible version for Mac. 
 
-(1) Click the following Link: bit.ly/SpaceShooterFJ
+(1) Click the following Link: [Windows Download] (bit.ly/SpaceShooterFJ)
 
 (2) Extract the files to desired location on your computer
 
