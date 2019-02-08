@@ -18,5 +18,5 @@ Space Shooter can only be ran on Windows as there is no compatible version for M
 - Press the up arrow to fire ship laser
 
 # Gameplay 
-![space fight small](https://user-images.githubusercontent.com/23549050/31362211-2a84d092-ad0c-11e7-8d60-e99f1c9c861a.png)
+![capture](https://user-images.githubusercontent.com/23549050/52458361-cb7f4780-2b13-11e9-96a8-116d012d1b7e.JPG) ![space fight small](https://user-images.githubusercontent.com/23549050/31362211-2a84d092-ad0c-11e7-8d60-e99f1c9c861a.png)
 
