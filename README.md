@@ -1,5 +1,5 @@
 # Space-Shooter
-Space Invader inspired game created C++ using the Simple Fast Multimedia Library (SFML) Framework
+Space Invader inspired game created with C++ using the Simple Fast Multimedia Library (SFML) Framework
 
 ## Description
 Space Shooter is a Space Invaders inspired game that allows the player to traverse through hundreds (technically an infinite number) of levels that progress in difficulty and speed. Within each level, there are four types of ships ranked easy, medium, hard, and boss. Each ship level contains its own artwork, health, and missile speed. Also, enemy ships drop power-ups for the player to increase ship power and mobility throughout the levels. Once the player successfully destroys the boss at that particular level, the game level will increase, boosting the stats of each enemy ship, making the game fun yet progressively challenging.
